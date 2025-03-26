@@ -102,8 +102,9 @@ export const Hero = () => {
           <motion.div 
             variants={wordsContainerVariants}
             className="text-4xl md:text-6xl font-bold flex justify-center md:justify-start gap-x-4 flex-wrap"
-          >
-            {['Crafting', 'Digital', 'Experiences', 'as', 'a'].map((word, index) => (
+          > 
+      
+            {['Bringing', 'ideas', 'to', 'life', 'as', 'a'].map((word, index) => (
               <motion.span
                 key={index}
                 variants={wordVariants}
@@ -128,12 +129,11 @@ export const Hero = () => {
               sequence={[
                 "Full-Stack Developer",
                 2000,
-                "Frontend Engineer",
+                "Tech Explorer",
                 2000,
-                "Backend Architect",
+                "Passionate Coder",
                 2000,
-                "Problem Solver",
-                2000,
+                
               ]}
               wrapper="span"
               speed={50}
