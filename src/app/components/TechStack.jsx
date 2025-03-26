@@ -9,18 +9,18 @@ import {
 import { faDatabase, faBolt } from '@fortawesome/free-solid-svg-icons'
 
 const technologies = [
-  { name: 'HTML', icon: faHtml5, color: 'text-[#E34F26]' },
-  { name: 'CSS', icon: faCss3Alt, color: 'text-[#1572B6]' },
-  { name: 'JavaScript', icon: faJs, color: 'text-[#F7DF1E]' },
-  { name: 'TypeScript', icon: faJs, color: 'text-[#3178C6]' }, // Using JS icon as fallback
-  { name: 'React', icon: faReact, color: 'text-[#61DAFB]' },
-  { name: 'Next.js', icon: faReact, color: 'text-white' }, // Using React icon as fallback
-  { name: 'Node.js', icon: faNodeJs, color: 'text-[#339933]' },
-  { name: 'Express', icon: faNodeJs, color: 'text-gray-400' }, // Using Node icon as fallback
-  { name: 'MongoDB', icon: faDatabase, color: 'text-[#47A248]' },
-  { name: 'Git', icon: faGitAlt, color: 'text-[#F05032]' },
-  { name: 'Sass', icon: faSass, color: 'text-[#CC6699]' },
-  { name: 'Tailwind', icon: faCss3Alt, color: 'text-[#38B2AC]' }, // Using CSS icon as fallback
+  { name: 'אייצ׳ טי אם אל', icon: faHtml5, color: 'text-[#E34F26]' },
+  { name: 'סי אס אס', icon: faCss3Alt, color: 'text-[#1572B6]' },
+  { name: 'ג׳אווה סקריפט', icon: faJs, color: 'text-[#F7DF1E]' },
+  { name: 'טייפ סקריפט', icon: faJs, color: 'text-[#3178C6]' }, // Using JS icon as fallback
+  { name: 'ריאקט', icon: faReact, color: 'text-[#61DAFB]' },
+  { name: 'נקסט ', icon: faReact, color: 'text-white' }, // Using React icon as fallback
+  { name: 'נוד', icon: faNodeJs, color: 'text-[#339933]' },
+  { name: 'אקספרס', icon: faNodeJs, color: 'text-gray-400' }, // Using Node icon as fallback
+  { name: 'מונגו דיביל', icon: faDatabase, color: 'text-[#47A248]' },
+  { name: 'גיט', icon: faGitAlt, color: 'text-[#F05032]' },
+  { name: 'סאאס', icon: faSass, color: 'text-[#CC6699]' },
+  { name: 'זנב רוח', icon: faCss3Alt, color: 'text-[#38B2AC]' }, // Using CSS icon as fallback
 
 ]
 
@@ -52,7 +52,7 @@ export const TechStack = () => {
           transition={{ duration: 0.5 }}
           className="text-4xl font-bold mb-12 mt-28 md:mt-0 lg:self-start xl:ml-32 xl:mb-16 bg-gradient-to-r from-blue-500/70 via-cyan-600 to-cyan-500/90 inline-block text-transparent bg-clip-text"
         >
-          Technologies
+          טכנולוגיות
         </motion.h2>
       <div className="w-2/3">
       

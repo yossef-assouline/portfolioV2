@@ -114,10 +114,10 @@ export const NavBar = () => {
   }
 
   const navItems = [
-    { href: '#about', label: 'Home', id: 'about' },
-    { href: '#tech-stack', label: 'Techologies', id: 'tech-stack' },
-    { href: '#work', label: 'Work', id: 'work' },
-    { href: '#contact', label: 'Contact', id: 'contact' },
+    { href: '#about', label: 'פנינה אלדרית', id: 'about' },
+    { href: '#tech-stack', label: 'כנפי אלייטרה', id: 'tech-stack' },
+    { href: '#work', label: 'הראש שלך עצום', id: 'work' },
+    { href: '#contact', label: 'זומבי על תרנגלות', id: 'contact' },
   ]
 
   const menuVariants = {

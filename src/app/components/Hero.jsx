@@ -103,11 +103,11 @@ export const Hero = () => {
         >
           <TypeAnimation
             sequence={[
-              'create a website',
+              'get shit ON',
               2000,
-              'stand out online',
+              'get oiled UP',
               2000,
-              'boost your SEO',
+              'get FREAKY',
               2000,
             ]}
             wrapper="span"
@@ -136,7 +136,7 @@ export const Hero = () => {
             className="px-6 py-2 bg-blue-500 hover:cursor-pointer text-white rounded-lg font-medium
               transition-colors duration-300 hover:bg-blue-600"
           >
-            Contact Me
+            צור קשר אח
           </motion.button>
           
           <motion.button
@@ -146,7 +146,7 @@ export const Hero = () => {
             className="px-6 py-2 border border-white/20 text-white rounded-lg font-medium
               transition-colors hover:cursor-pointer duration-300 hover:bg-white/10"
           >
-            Learn More
+            בוא תלמד איזה דבר או שתיים
           </motion.button>
         </motion.div>
 
