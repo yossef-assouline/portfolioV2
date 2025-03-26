@@ -10,12 +10,12 @@ export const Footer = () => {
     {
       name: 'GitHub',
       icon: faGithub,
-      url: 'https://github.com/yourusername'
+      url: 'https://github.com/yossef-assouline'
     },
     {
       name: 'LinkedIn',
       icon: faLinkedin,
-      url: 'https://linkedin.com/in/yourusername'
+      url: 'https://www.linkedin.com/in/yossef-assouline-495992301/'
     }
   ]
 
