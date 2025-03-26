@@ -90,15 +90,14 @@ export const Contact = () => {
           variants={itemVariants}
           className="text-4xl font-bold mb-4 text-blue-400 text-center"
         >
-          Get in Touch
+          בוא נדבר
         </motion.h2>
 
         <motion.p 
           variants={itemVariants}
           className="text-white text-center mb-12 max-w-lg mx-auto"
         >
-          Feel free to reach out for collaborations, opportunities, or just to say hello! 
-          I'll try my best to get back to you as soon as possible.
+          שמע שמע בוא תרשום למטה מה אתה חושב עליי לראות שאתה לא משחק בקקה למה אני משוגע אחי אני משוגעעעע
         </motion.p>
 
         <motion.div 
