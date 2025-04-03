@@ -20,6 +20,14 @@ export const Projects = () => {
 
   const projects = [
     {
+      year: '2024',
+      title: 'Photography Portfolio',
+      description: 'A photography portfolio website that showcases the photographer\'s work.',
+      tech: ['Nextjs', 'React', 'Tailwind', 'JavaScript'],
+      link: 'https://chlomo-portfolio.vercel.app',
+      direction: 'left'
+    },
+    {
       year: '2025',
       title: 'VidTube',
       description: 'A community-driven video sharing platform',
